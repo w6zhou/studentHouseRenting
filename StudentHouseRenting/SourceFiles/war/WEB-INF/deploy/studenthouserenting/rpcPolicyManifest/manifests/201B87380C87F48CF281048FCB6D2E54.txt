@@ -1,0 +1,2 @@
+serviceClass: com.uwaterloo.StudentHouseRenting.client.HouseService
+path: FD0CFAAC2A51ED30AD4CF39613CB6D8F.gwt.rpc

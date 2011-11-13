@@ -1,0 +1,3 @@
+# Module studenthouserenting
+# RPC service class, partial path of RPC policy file
+com.uwaterloo.StudentHouseRenting.client.HouseService, FD0CFAAC2A51ED30AD4CF39613CB6D8F.gwt.rpc

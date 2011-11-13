@@ -1,0 +1,22 @@
+/** Add css rules here for your application. */
+
+.widgetMargin10 {
+	Margin: 10px;
+}
+
+.widgetWidth150 {
+	width: 150px;
+}
+
+/*.gwt-Button-Margin10 {
+	margin: 10px !important;
+}
+
+.gwt-Button-Width150 {
+	width: 150px !important;
+}*/
+
+.gwt-Button {
+	width: 150px !important;
+	margin: 10px !important;
+}

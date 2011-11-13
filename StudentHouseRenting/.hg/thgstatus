@@ -1,0 +1,4 @@
+rSourceFiles/gwt-unitCache
+mSourceFiles/src/com/uwaterloo/StudentHouseRenting/client/presenter
+mSourceFiles/war/WEB-INF/classes/com/uwaterloo/StudentHouseRenting/client
+rSourceFiles/war/WEB-INF/lib
